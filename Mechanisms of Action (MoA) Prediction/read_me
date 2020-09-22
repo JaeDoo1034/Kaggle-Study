@@ -12,3 +12,19 @@
  3) 딥러닝(Keras로 어떻게 푸는 지 검색)
  
 --> 20년 9월 22일 생각 : 머신러닝으로 어떻게 모델링 하는지 간략히 보고, 딥러닝으로 어떻게 푸는 지 자세히 보자. 최신 기술을 봐야지!
+
+
+
+# 현재 관심있는 Notebook Kernel
+
+[EDA]
+https://www.kaggle.com/isaienkov/mechanisms-of-action-moa-prediction-eda
+
+[ML]
+https://www.kaggle.com/aguirremimoun/moa-rf-xgboost
+https://www.kaggle.com/fchmiel/xgboost-baseline-multilabel-classification
+https://www.kaggle.com/alturutin/adversarial-validation
+
+[DL]
+https://www.kaggle.com/sarthak97/tf-keras-5-folds-nn-starter
+https://www.kaggle.com/fchollet/moa-keras-kerastuner-best-practices
