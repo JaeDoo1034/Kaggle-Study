@@ -11,6 +11,12 @@ Time Series data, Text, Image Classification 까지
 다양하게 풀려고 한다.
 
 
+** 특이사항(20년 9월 23일)
+
+DACON 온도 센서 예측 공모전 이후 스스로 공부했던 Kaggle 데이터를 올립니다.
+
+Kaggle 주제 : https://www.kaggle.com/lava18/google-play-store-apps
+
 
 
 [진행상황]
