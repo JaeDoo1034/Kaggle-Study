@@ -24,7 +24,8 @@ Kaggle 주제 : https://www.kaggle.com/lava18/google-play-store-apps
 
 2. Time-Series 유형 공부하고 싶어 m5-forecasting 관련 notebook 필사 완료
 
-3.  Mechanisms of Action (MoA) Prediction 필사 진행 중
+3. Mechanisms of Action (MoA) Prediction 필사 진행 중
+ - 용량 한계로 그래프 표현 안하고 올리는 중
 
 
 
