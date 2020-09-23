@@ -9,7 +9,7 @@ Binary Classification부터 Regression까지
 Time Series data, Text, Image Classification 까지
 
 다양하게 풀려고 한다.
-
+<br><br>
 
 ** 특이사항(20년 9월 23일)
 
