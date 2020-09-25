@@ -44,3 +44,9 @@ train_targets_scored.csv - The binary MoA targets that are scored.
 train_targets_nonscored.csv - Additional (optional) binary MoA responses for the training data. These are not predicted nor scored.
 test_features.csv - Features for the test data. You must predict the probability of each scored MoA for each row in the test data.
 sample_submission.csv - A submission file in the correct format.
+
+
+** 용어 설명
+cell viability는 세포가 얼마나 죽어나가는 지를 본다.
+유전자 발현(遺傳子發現, 영어: gene expression) : DNA를 구성하는 유전 정보, 즉 유전자에 의해 생물을 구성하는 다양한 단백질이 형성되는 과정
+
