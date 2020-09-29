@@ -47,3 +47,7 @@ Kaggle 주제 : https://www.kaggle.com/lava18/google-play-store-apps
 
 hands-on2 머신러닝 관련 파트 다 공부한 후 Binary문제의 3번째 파트부터 다시 풀 예정!
 
+
+
+## 공부 계획 수정(2020_09_29)
+ - 그 동안 목적없이 필사했음을 반성한다. 이젠 어떤 것을 배울 지 목적을 가지고 분석할 예정
