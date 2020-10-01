@@ -1,0 +1,11 @@
+1) tensorflow 2.0 Dataset, batch, window, flat_map을 활용한 loader 만들기
+- https://teddylee777.github.io/tensorflow/dataset-batch-window
+
+2) TensorFlow 2.0 - 단어 토큰화, Embedding, LSTM layer를 활용한 뉴스 데이터 sarcasm 판단
+  - https://teddylee777.github.io/tensorflow/news-sarcasm
+
+3) Tensorflow 공식 홈페이지 : tf.data : TensorFlow 입력 파이프 라인 빌드
+ - https://www.tensorflow.org/guide/data?hl=ko#reading_input_data
+
+4) tf.data.Dataset
+ - https://www.tensorflow.org/api_docs/python/tf/data/Dataset?hl=ko#from_tensor_slices
